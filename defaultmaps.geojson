@@ -44602,7 +44602,8 @@
         "nom": "Auvergne-Rhône-Alpes",
         "fill": "#ff6b6b",
         "stroke": "#ffffff",
-        "fill-opacity": 0.8
+        "fill-opacity": 0.8,
+        "isActived": "true"
       }
     },
     {
