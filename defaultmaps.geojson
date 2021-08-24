@@ -50722,6 +50722,27 @@
           47.29413372501023
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Game Bourge-en-Bresse ",
+        "shopCode": 61230,
+        "url": "https://www.cultura.com/les-magasins/cultura-montlucon.html",
+        "adress": "Centre Commercial E. Leclerc Les Hauts Vents, Rue François Truffaut, 21230 DIJON",
+        "region": "Auvergne-Rhône-Alpes",
+        "qualification": "Boutique Franchise retrogaming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.07568359375,
+          46.29413372501023
+        ]
+      }
     }
   ]
 }
